@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" fill="none">
+  <defs>
+    <linearGradient id="grid" x1="0" y1="0" x2="800" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="none" />
+  <g stroke="url(#grid)" stroke-width="1">
+    <path d="M0 40h800" />
+    <path d="M0 80h800" />
+    <path d="M0 120h800" />
+    <path d="M0 160h800" />
+    <path d="M0 200h800" />
+    <path d="M0 240h800" />
+    <path d="M0 280h800" />
+    <path d="M0 320h800" />
+    <path d="M0 360h800" />
+    <path d="M0 400h800" />
+    <path d="M0 440h800" />
+    <path d="M0 480h800" />
+    <path d="M0 520h800" />
+    <path d="M0 560h800" />
+    <path d="M0 600h800" />
+    <path d="M0 640h800" />
+    <path d="M0 680h800" />
+    <path d="M0 720h800" />
+    <path d="M0 760h800" />
+    <path d="M40 0v800" />
+    <path d="M80 0v800" />
+    <path d="M120 0v800" />
+    <path d="M160 0v800" />
+    <path d="M200 0v800" />
+    <path d="M240 0v800" />
+    <path d="M280 0v800" />
+    <path d="M320 0v800" />
+    <path d="M360 0v800" />
+    <path d="M400 0v800" />
+    <path d="M440 0v800" />
+    <path d="M480 0v800" />
+    <path d="M520 0v800" />
+    <path d="M560 0v800" />
+    <path d="M600 0v800" />
+    <path d="M640 0v800" />
+    <path d="M680 0v800" />
+    <path d="M720 0v800" />
+    <path d="M760 0v800" />
+  </g>
+</svg>

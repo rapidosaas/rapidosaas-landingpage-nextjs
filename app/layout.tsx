@@ -13,8 +13,36 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rapido SaaS - Launch Your SaaS in Days, Not Months",
-  description: "The ultimate Next.js boilerplate to build and launch your SaaS product rapidly. Get everything you need out of the box.",
+  title: "Instant Store – Free Self-Hosted E-commerce Solution",
+  description:
+    "Clone, customize, and deploy your own online store. Instant Store is a free, open-source Next.js e-commerce solution. Self-host it or get help with deployment and custom development. Example: artisanat-dz.com.",
+  keywords: [
+    "instant store",
+    "self-hosted ecommerce",
+    "free online store",
+    "open source ecommerce",
+    "next.js store",
+    "clone and deploy",
+  ],
+  authors: [{ name: "Instant Store" }],
+  openGraph: {
+    title: "Instant Store – Free Self-Hosted E-commerce Solution",
+    description:
+      "Clone and customize your own online store. Free, self-hosted Next.js solution. Optional deployment & development services. Example: artisanat-dz.com.",
+    url: "https://demo.instant-store.com",
+    siteName: "Instant Store",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Instant Store – Free Self-Hosted E-commerce Solution",
+    description:
+      "Free, self-hosted Next.js store. Clone & customize. Optional deployment help. Example: artisanat-dz.com.",
+  },
+  alternates: {
+    canonical: "https://demo.instant-store.com",
+  },
 };
 
 export default function RootLayout({
